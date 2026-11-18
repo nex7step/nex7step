@@ -25,7 +25,7 @@ O **7** é a assinatura da marca: sete degraus que sobem, com o último em desta
 
 ---
 
-## 🛠️ O que fazemos
+## 🛠️ Nossos Serviços
 
 | | Frente | O que entregamos |
 | :-: | :-- | :-- |
@@ -49,18 +49,6 @@ O **7** é a assinatura da marca: sete degraus que sobem, com o último em desta
 </table>
 
 O cliente aproxima o celular ou lê o QR Code e chega direto ao destino.
-
----
-
-## 🧱 Como a gente constrói
-
-Gostamos de soluções **enxutas e que funcionam**. O site da marca, por exemplo, é feito em **HTML, CSS e JavaScript puro**, sem framework e sem etapa de build, com foco em **velocidade, responsividade e acessibilidade**, e usa **Supabase** para o painel de administração dos produtos.
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=b680e6)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=b680e6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=b680e6)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=b680e6)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=b680e6)
 
 ---
 
